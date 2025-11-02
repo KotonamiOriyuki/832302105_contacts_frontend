@@ -79,3 +79,4 @@ To change the default settings.
 > ├ layout.vue // the aside bar and header design (components in main section are home.vue and profile.vue)\
 > ├ home.vue // a list of contacts, supports create, edit, and delete operation\
 > └ profile.vue // a page show your personal profile in a sheet, supports the editing operation.
+
